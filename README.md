@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://www.youtube.com/@rc_jestor"> 
+  <a href="https://youtube.com/@rc_jestor?si=zoKUVF-K-flKCPp2"> 
     <img src="https://github.com/wijesuriya2017/Knight-Bot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
@@ -113,7 +113,7 @@ If you prefer a VPS deployment, here are recommended providers and a quick link:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/rc_jestor">
+  <a href="https://t.me/navi_wijesooriya">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Vb67r0SEquiMPLiAq51A">
